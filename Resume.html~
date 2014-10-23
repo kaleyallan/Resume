@@ -11,17 +11,15 @@
 
 <style>
 
-body {
-  background-color:lightblue;
-}
-
 h1{
 	text-align: center;
 }
 h4{
 	text-align: center;
 }
-
+body{
+	background-color: lightblue;
+}
 h1{ 
 	font-family: 'Droid Serif', serif;
 }
