@@ -11,15 +11,17 @@
 
 <style>
 
+body {
+  background-color:lightblue;
+}
+
 h1{
 	text-align: center;
 }
 h4{
 	text-align: center;
 }
-body{
-	background-color: lightblue;
-}
+
 h1{ 
 	font-family: 'Droid Serif', serif;
 }
@@ -40,6 +42,8 @@ ul{
 <h4>(610) 6394448</h4>
 <h4>ka599248@sju.edu</h4>
 
+<section id: 
+<div style="width:50%;background-color:maroon;height:10em">
 <h2> PROFESSIONAL EXPERIENCE</h2>
 
 <h3>Oaks Early Learning Center: Oaks PA</h3> 
