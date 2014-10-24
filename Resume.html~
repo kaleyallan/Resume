@@ -12,7 +12,8 @@
 <style>
 
 body {
-  background-color:lightblue;
+  background-color:pink;
+  color: maroon;
 }
 
 h1{
@@ -42,9 +43,10 @@ ul{
 <h4>(610) 6394448</h4>
 <h4>ka599248@sju.edu</h4>
 
-<section id: 
-<div style="width:50%;background-color:maroon;height:10em">
+<section id="professional experience"/>
+<div style="width:50%;background-color:lightblue;height:10em">
 <h2> PROFESSIONAL EXPERIENCE</h2>
+
 
 <h3>Oaks Early Learning Center: Oaks PA</h3> 
 <h3>Supervisor: Debbie Nardi </h3>
@@ -59,6 +61,8 @@ Teachers Assistant June 2011-August 2012
 <ul>Type, file, and duplicate materials.</ul>
 <ul>Attend staff meetings and serve on committees, as required.</ul>
 
+<section id="Second Job"/>
+<div style="width:50%;background-color:lightblue;height:9em">
 <h3>Shannondell Retirement Community</h3>
 <h3>Supervisor: Jennifer</h3>
 Server April 2012-June 2013
@@ -68,6 +72,8 @@ Server April 2012-June 2013
 <ul>Would sometimes help utility staff</ul>
 <ul>Worked well in groups when large parties came in for meals</ul>
 
+<section id="Internships"/>
+<div style="width:50%;background-color:lightblue;height:10em">
 <h2>Internships</h2>
 <h3> Livenation</h3>
 Booking Assistant September 2012-June 2013
